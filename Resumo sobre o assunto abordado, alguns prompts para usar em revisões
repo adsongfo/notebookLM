@@ -1,0 +1,133 @@
+Visão Geral
+
+O repositório tem como objetivo apresentar uma forma organizada de utilizar o Google NotebookLM como ferramenta de apoio aos estudos de programação, especialmente da linguagem Python. Para isso, reúne diferentes materiais de referência em um único local, permitindo que o usuário utilize os recursos de inteligência artificial do NotebookLM para potencializar o aprendizado.
+
+Em vez de servir como um curso próprio, o repositório funciona como um ambiente de estudo, centralizando livros, apostilas e indicações de cursos que podem ser importados para o NotebookLM.
+
+Objetivo do Repositório
+
+O principal objetivo é demonstrar como utilizar o NotebookLM para estudar de forma mais eficiente. A proposta é concentrar materiais confiáveis em um único espaço e utilizar a inteligência artificial para facilitar a compreensão dos conteúdos, revisar conceitos e esclarecer dúvidas durante o aprendizado.
+
+Estrutura dos Materiais
+
+O repositório é composto por diferentes fontes de estudo sobre Python, incluindo livros, apostilas e recomendações de cursos. Esses materiais abordam desde os conceitos fundamentais da linguagem até tópicos mais avançados, permitindo que o estudante tenha uma base sólida para seu desenvolvimento.
+
+Além dos materiais, o repositório contém um arquivo README com orientações sobre a proposta do projeto e a forma recomendada de utilização.
+
+Papel do NotebookLM
+
+O NotebookLM é utilizado como uma ferramenta de apoio ao estudo, permitindo que o usuário interaja diretamente com os documentos adicionados ao projeto. Entre as possibilidades oferecidas estão:
+
+geração de resumos;
+explicação de conceitos;
+resposta a dúvidas baseadas nos documentos;
+comparação entre diferentes fontes;
+criação de perguntas para revisão;
+organização das informações estudadas.
+
+Dessa forma, a ferramenta atua como um assistente de aprendizagem, utilizando apenas o conteúdo presente nas fontes fornecidas.
+
+Conteúdos Abordados
+
+Os materiais presentes no repositório podem auxiliar o estudante no aprendizado de diversos assuntos relacionados à programação em Python, como:
+
+introdução à linguagem;
+lógica de programação;
+sintaxe básica;
+estruturas de decisão;
+estruturas de repetição;
+manipulação de dados;
+funções;
+coleções;
+arquivos;
+boas práticas de programação;
+resolução de exercícios.
+
+O repositório não aprofunda esses temas diretamente, mas disponibiliza materiais que permitem estudá-los de forma organizada.
+
+Metodologia de Estudo
+
+A proposta sugerida pelo projeto consiste em:
+
+reunir materiais de qualidade;
+importá-los para o NotebookLM;
+utilizar a inteligência artificial para compreender os conteúdos;
+realizar revisões periódicas;
+praticar por meio de exercícios e desafios.
+
+Essa metodologia busca tornar o estudo mais interativo e personalizado.
+
+Público-Alvo
+
+O repositório é indicado para:
+
+iniciantes em programação;
+estudantes de Python;
+universitários da área de tecnologia;
+pessoas que desejam utilizar IA como ferramenta de estudos;
+autodidatas que preferem aprender utilizando diferentes fontes de conhecimento.
+Benefícios da Proposta
+
+A utilização do NotebookLM em conjunto com materiais de referência oferece diversas vantagens, entre elas:
+
+centralização das fontes de estudo;
+aprendizado mais organizado;
+revisões rápidas;
+facilidade para localizar informações;
+auxílio na compreensão de conteúdos complexos;
+possibilidade de criar materiais de revisão automaticamente.
+Conclusão
+
+O repositório apresenta uma proposta prática para utilizar o Google NotebookLM como ferramenta de apoio ao aprendizado de Python. Em vez de oferecer um curso próprio, ele organiza materiais de qualidade e demonstra como a inteligência artificial pode ser utilizada para tornar os estudos mais eficientes, auxiliando na compreensão, revisão e organização do conhecimento adquirido. Esse modelo incentiva um aprendizado mais ativo e personalizado, aproveitando os recursos do NotebookLM para transformar documentos de estudo em uma experiência interativa.
+
+
+---- prompts
+
+Prompts para revisão
+1. Professor particular
+
+Explique todo este conteúdo como um professor universitário, utilizando exemplos simples e exercícios ao final de cada tópico.
+
+2. Revisão rápida
+
+Faça um resumo de 5 minutos contendo apenas os conceitos essenciais de Python apresentados neste material.
+
+3. Revisão completa
+
+Explique detalhadamente todos os conceitos deste material, seguindo exatamente a ordem dos capítulos.
+
+4. Flashcards
+
+Transforme todo este conteúdo em flashcards no formato pergunta e resposta.
+
+5. Exercícios
+
+Crie 30 exercícios sobre este conteúdo, começando no nível iniciante e terminando no nível avançado.
+
+6. Entrevista técnica
+
+Simule uma entrevista para vaga de desenvolvedor Python Júnior utilizando apenas os conceitos apresentados neste material.
+
+7. Correção de código
+
+Analise meu código Python, identifique erros, explique cada problema e sugira melhorias com base nas boas práticas.
+
+8. Desafio diário
+
+Gere um desafio prático de Python utilizando somente os assuntos presentes neste material.
+
+9. Questões de prova
+
+Crie uma prova com 20 questões de múltipla escolha e 10 discursivas baseada neste conteúdo.
+
+10. Aprendizagem ativa
+
+Faça perguntas uma por vez sobre o conteúdo. Só revele a resposta correta depois que eu responder.
+
+11. Mapa mental
+
+Organize todo este conteúdo em um mapa mental hierárquico.
+
+12. Resumo para concurso
+
+Resuma todo o material destacando apenas os conceitos mais cobrados em provas e concursos de programação.
